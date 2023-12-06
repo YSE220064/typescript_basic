@@ -1,6 +1,5 @@
-// var message = "HALO!";
-// console.log(message);
-var message = "YAHARO!!!!";
+var message = "Hello!!!!";
+// message = 1;
 console.log(message);
 // var id;
 // var email;
@@ -21,7 +20,8 @@ var none;
 // var email:string = "test@test.com";
 // var isActive:boolean = true;
 // var none:any;
-none = "YSE";
+// none = "YSE";
+// none = 1;
 console.log(id, typeof id);
 console.log(email, typeof email);
 console.log(isActive, typeof isActive);
